@@ -1,0 +1,24 @@
+{
+  "dados_carro": [
+    {
+      "placa": "XHC-4785",
+      "chassi": "7AW8A47SA45A",
+      "renavam": "00014254A8",
+      "ano_modelo": "2003",
+      "ano_fabricação": "2005",
+      "cor": "AZUL",
+      "emplacamento": "CE",
+      "id": 3
+    },
+    {
+      "placa": "PHP-7878",
+      "chassi": "7A48S7AW4",
+      "renavam": "002A4W7477",
+      "ano_modelo": "2003",
+      "ano_fabricação": "2004",
+      "cor": "VERDE",
+      "emplacamento": "RJ",
+      "id": 4
+    }
+  ]
+}
